@@ -480,6 +480,9 @@ body {
   #CATEGORY
 \*-----------------------------------*/
 
+.category-card:hover {
+	background-color: #089fdb;
+}
 
 .category .section-subtitle { color: var(--radical-red); }
 
